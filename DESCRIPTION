@@ -16,3 +16,8 @@ Depends:
 LazyData: true
 URL: https://github.com/IneMedina/paquetedeprueba
 BugReports: https://github.com/IneMedina/paquetedeprueba/issues
+Imports: 
+    dplyr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
