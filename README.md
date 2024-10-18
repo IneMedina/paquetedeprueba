@@ -7,7 +7,7 @@
 <!-- badges: end -->
 
 El objetivo del paqeute paquetedeprueba es mostrar como se crea un
-paquete con una fumcion de suma de ejemplo.
+paquete con una funcion de suma de ejemplo.
 
 ## Instalacion
 
